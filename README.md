@@ -5,6 +5,7 @@ Step-by-step aplicarei minha stack foco, colocarei em prática um CRUD em FastAP
 
   - `Crud Completo`: **Done**
   - `Autenticação com JWT`
+  - `Armazenamento em Cloud SQL`
   - `Testes automatizados`
   - `Versionamento e filtros`
   - `Rate limiting / Webscokets`
